@@ -61,6 +61,18 @@
       ]
     },
     {
+      "company": "Gen.G",
+      "position": "Marketing Intern",
+      "startDate": "2024-05-01",
+      "endDate": "2024-06-15",
+      "summary": "Recieved 2 months of mentorship to learn fundamentals of esports culture to enhance global fan engagement through innovative content, marketing strategies, and events",
+      "highlights": [
+        "Developed over 10 Meta paid advertising strategies for Gen.G's Global Academy Play Services, increasing reach in English-speaking markets and boosting fan-base and student enrollment.",
+        "Collaborated with the CGO in an agile environment to execute a marketing sprint, resulting in 20 western sales for YOUR.GG VOD review.",
+        "Created social media content for gen.G Academy International and Gen.G Gold to engage Western audiences."
+      ]
+    },
+    {
       "company": "i-Lave",
       "position": "UX Design Intern",
       "startDate": "2022-03-01",
@@ -68,50 +80,27 @@
       "summary": "Led the redesign of mobile/web responsive laundry startup to finalize an MVP for potential investors",
       "highlights": [
         "Collaborated with project partners, PMs, clients, and Scrum masters in an agile environment to ensure project success.",
-        "Seamlessly integrate interactions between both web and mobile platforms",
+        "Seamlessly integrate interactions between both web and mobile platforms.",
         "Conducted user research and usability testing sessions achieving a successful task completion rate of 90%."
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Design Partners Inc.",
+      "position": "Architectural Designer",
+      "startDate": "2018-04-01",
+      "endDate": "2021-01-15",
+      "summary": "Manage architecture projects and community development plans.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Produced high-quality architectural drawings and presentation materials for 20+ projects, ensuring clear communication of design ideas to team members, clients, and contractors.",
+        "Collaborated with clients and team members throughout the entirety of projects, from conception to completion, resulting in successful project delivery"
       ]
     }
   ],
-  "awards": [
+  "certifications": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Springboard UX/UI Design Course",
+      "date": "2021-2022",
+      "summary": "300+ hour, mentor-led UX Design course."
     }
   ],
   "references": [
