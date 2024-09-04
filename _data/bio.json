@@ -10,7 +10,7 @@
     "location": { "address": "3687 Woodlawn Terrace Pl", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "zeldaco", "url": "http://github.com/zeldaco" },
-      { "network": "linkedin", "username": "Zelda Cole", "url": "https://www.linkedin.com/in/zeldacole/" },
+      { "network": "linkedin", "username": "Zelda Cole", "url": "http://www.linkedin.com/in/zeldacole/" },
       { "network": "instagram", "username": "jellyzely", "url": "http://instagram.com/jellyzely" }
     ]
   },
