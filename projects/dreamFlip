@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: img/37uuhD.png
+image: 
 title: "Dream Flip"
 date: 2024
 published: true
 labels:
-  - C##
+  - C#
   - Unity
   - GitHub
 summary: "A 2D pixel platformer game that I developed for ICS 414."
