@@ -9,63 +9,68 @@
     "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
     "location": { "address": "3687 Woodlawn Terrace Pl", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "zeldaco", "url": "http://github.com/zeldaco" },
+      { "network": "linkedin", "username": "Zelda Cole", "url": "https://www.linkedin.com/in/zeldacole/" },
+      { "network": "instagram", "username": "jellyzely", "url": "http://instagram.com/jellyzely" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
     { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Architecture" },
+    { "name": "UX Design" },
+    { "name": "Graphic Design" },
     { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Unity", "Unreal Engine", "Git/GitHub", "Figma", "Adobe Suite" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
+      "area": "Computer Science (expected Fall, 2025)",
+      "studyType": "M.S.",
+      "startDate": "2024-09-01",
+      "endDate": "Present"
       ]
+    },
+    {
+      "institution": "Arizona State University, Honolulu, HI",
+      "area": "Architecture",
+      "studyType": "B.S.",
+      "startDate": "2017-09-01",
+      "endDate": "2021"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Esports",
+      "position": "Community Content and Events Coordinator",
+      "startDate": "2024-07-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Content creator and event manager for University of Hawaii Esports",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Actively engage with community members and players, and team leads to create content, build relationships, and ensure player support",
+        "Collaborate with the GFX, broadcast, and content teams to create and implement strategies for in-person and social media content to increase community engagement across various platforms"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "i-Lave",
+      "position": "UX Design Intern",
+      "startDate": "2022-03-01",
+      "endDate": "2022-04-15",
+      "summary": "Led the redesign of mobile/web responsive laundry startup to finalize an MVP for potential investors",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Collaborated with project partners, PMs, clients, and Scrum masters in an agile environment to ensure project success.",
+        "Seamlessly integrate interactions between both web and mobile platforms",
+        "Conducted user research and usability testing sessions achieving a successful task completion rate of 90%."
       ]
     }
   ],
