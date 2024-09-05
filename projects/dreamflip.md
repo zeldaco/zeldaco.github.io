@@ -12,11 +12,11 @@ labels:
 summary: "A 2D pixel platformer game that I developed for ICS 414."
 ---
 
+Dream Flip is a platformer based game I developed alongside another programmer and artist. I was in charge of working on player movement, health UI, and gravity control scripts. We worked together to create unique art assests and character animations to match the narrative and transport players into a new world. Our goal was to develop a game in C# that is both challenging and addicting.
+
 <div class="text-left">
   <img width="300px" src="../img/37uuhD.png" class="img-thumbnail" >
 </div>
-
-Dream Flip is a platformer based game I developed alongside another programmer and artist. I was in charge of working on player movement, health UI, and gravity control scripts. We worked together to create unique art assests and character animations to match the narrative and transport players into a new world. Our goal was to develop a game in C# that is both challenging and addicting.
 
 You can play the game [here](https://sephye.itch.io/dream-flip).
 
