@@ -15,7 +15,9 @@ Dream Flip is a platformer based game I developed alongside another programmer a
 
 You can play the game [here](https://sephye.itch.io/dream-flip).
 
-<img class="img-fluid" src="../img/37uuhD.png">
+<div class="text-center p-4">
+  <img width="300px" src="../img/37uuhD.png" class="img-thumbnail" >
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bRt4Dj-3v-0?si=n5vrDePdqGkuosTe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Source: <a href="https://github.com/zeldaco/The-Pho-Real-Squad.git"><i class="large github icon "><github.com/zeldaco/The-Pho-Real-Squad.git>
