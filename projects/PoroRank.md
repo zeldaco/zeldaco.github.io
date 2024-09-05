@@ -14,7 +14,7 @@ labels:
 summary: "PoroRank is a web application that allows you to view the top ranking esports teams in league of legends with the option to filter the rankings by team names."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/Home Page.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
