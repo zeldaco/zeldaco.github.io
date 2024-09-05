@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "PoroRank"
+date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - AWS
+  - Software Development
+  - React
   - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Hackathon
+summary: "PoroRank is a web application that allows you to view the top ranking esports teams in league of legends with the option to filter the rankings by team names."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
