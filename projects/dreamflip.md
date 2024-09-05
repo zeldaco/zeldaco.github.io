@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/37uuhD.png
 title: "Dream Flip"
 date: 2024
 published: true
