@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Branding_.png
 title: "PoroRank"
 date: 2024
 published: true
