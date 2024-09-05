@@ -15,7 +15,7 @@ summary: "Developed 3D models and python scripts to create particle animations w
 
 <div class="text-center p-4">
   <img width="300px" src="../img/222.PNG" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="400px" src="..img/111.PNG" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
