@@ -12,7 +12,7 @@ labels:
 summary: "A 2D pixel platformer game that I developed for ICS 414."
 ---
 
-<div class="text-center p-4">
+<div class="text-left p-4">
   <img width="300px" src="../img/37uuhD.png" class="img-thumbnail" >
 </div>
 
