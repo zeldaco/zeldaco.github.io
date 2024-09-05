@@ -23,7 +23,7 @@ This was my first time working on both UX Designs and software development for a
 
 We learned quite a lot on AWS, Lambda types, API Gateway, API Gateway fronted by Lambda, DynamoDb single-table design, AWS boto3 client vs resource, and rating system history and their differences (elo vs truskill vs glicko). Our DynamoDb single table design is something we were also extremely proud of. We went through countless different iterations of our single-table design before we landed on the one use today and we are quite proud with the current product.
 
-<iframe width="660" height="415" src="https://www.youtube.com/embed/5zIIq0fF3gU?si=kCi2VLXjKErQLlFW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zIIq0fF3gU?si=kCi2VLXjKErQLlFW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 There were quite a few features we wanted to add that were in our wireframes but ran out of time unfortunately such as: Tournament filtering, Match processing lambda, Rank history, team-specific view with match history, player lists, current events list, etc.. We decided we are going to continue working on PoroRank albeit a bit slower implementing the missing features we wanted to add and creating a truly polished and delightful experience.
 
