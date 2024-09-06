@@ -6,30 +6,28 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-dark-green: #339966;
-  --tf-blue2: #d9f2e6;
-  --tf-blue3: #8cd9b3;
-  --tf-w-green: #d9f2e6;
-  --tf-green: #206040;
+  --tf-green: #339966;
+  --tf-wgreen: #d9f2e6;
+  --tf-darkgreen: #206040;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-dark-green);
-  --tf-pill-bg: var(--tf-dark-green);
-  --tf-icon-fill: var(--tf-dark-green);
+  --bs-link-color: var(--tf-darkgreen);
+  --tf-pill-bg: var(--tf-green);
+  --tf-icon-fill: var(--tf-darkgreen);
   --tf-icon-hover: var(--tf-green);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-w-green);
-  --tf-projects-bg-color: var(--tf-w-green);
+  --tf-footer-bg-color: var(--tf-wgreen);
+  --tf-projects-bg-color: var(--tf-wgreen);
 }
 
 h1,h2,h3,h4,h5 {
-  color: var(--tf-vd-green);
+  color: var(--tf-darkgreen);
   font-family: Rubik;
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-green);
+  fill: var(--tf-darkgreen);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -55,7 +53,7 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-vd-green);
+  border-color: var(--tf-darkgreen);
   border-style: solid;
   border-width: 0px;
 }
