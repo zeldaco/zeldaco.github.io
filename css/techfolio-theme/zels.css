@@ -10,11 +10,12 @@
   --tf-blue2: #339966;
   --tf-blue3: #8cd9b3;
   --tf-blue4: #d9f2e6;
+  --tf-green5: #206040
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-blue1);
   --tf-pill-bg: var(--tf-blue1);
   --tf-icon-fill: var(--tf-blue1);
-  --tf-icon-hover: var(--tf-blue3);
+  --tf-icon-hover: var(--tf-green5);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-blue4);
   --tf-projects-bg-color: var(--tf-blue4);
@@ -56,5 +57,5 @@ a {
 .rounded-circle {
   border-color: var(--tf-blue1);
   border-style: solid;
-  border-width: 1px;
+  border-width: 0px;
 }
