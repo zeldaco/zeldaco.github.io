@@ -94,5 +94,6 @@ setTimelineEndFrame(endFrame)
 sakuraSystem = makeSakura()
 sakuraSystem.run(frames=300)
 ```
+# Takeaways
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+I learned how to organize particle classes and structures in Maya, manage scenes, and explore new possibilities codeing can bring to animation. While working on the project, I faced many software issues when it came to rendering the frames. In the future, I would love to go back and slow down some of the particle systems and scenes so that there is more time to appreciate the particle system animations.  
