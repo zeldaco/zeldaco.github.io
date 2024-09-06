@@ -10,12 +10,12 @@
   --tf-blue2: #d9f2e6;
   --tf-blue3: #8cd9b3;
   --tf-w-green: #d9f2e6;
-  --tf-vd-green: #206040;
+  --tf-green: #206040;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-dark-green);
   --tf-pill-bg: var(--tf-dark-green);
   --tf-icon-fill: var(--tf-dark-green);
-  --tf-icon-hover: var(--tf-vd-green);
+  --tf-icon-hover: var(--tf-green);
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-w-green);
   --tf-projects-bg-color: var(--tf-w-green);
@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-vd-green);
+  fill: var(--tf-green);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
