@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Zelda Cole",
-    "label": "Student",
+    "label": "",
     "picture": "https://avatars.githubusercontent.com/u/144313692?v=4",
     "email": "zeldac@hawaii.edu",
     "phone": "808-225-5509",
     "website": "https://zeldaco.github.io",
-    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "3687 Woodlawn Terrace Pl", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "zeldaco", "url": "http://github.com/zeldaco" },
@@ -15,17 +15,16 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
+    { "name": "Software Development" },
     { "name": "Interaction Design" },
-    { "name": "Architecture" },
     { "name": "UX Design" },
-    { "name": "Graphic Design" },
-    { "name": "3D Graphics" }
+    { "name": "Architecture" },
+    { "name": "Graphic Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "TypeScript" ]
+      "keywords": [ "C", "C++", "C#", "Java", "Javascript", "TypeScript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
