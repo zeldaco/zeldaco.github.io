@@ -20,6 +20,9 @@ summary: "Developed 3D models and python scripts to create particle animations w
 </div>
 
 
+# About the Project
+
+
 I used Maya to develop particle systems to create a story of a cat rowing down a river. I developed three particle systems to animate sakura petals falling, the wake of the boat, and a water splash. **I learned how to manage scenes and keyframes, develop unique materials, work with shaders and lighting to render the project.**
 
 
