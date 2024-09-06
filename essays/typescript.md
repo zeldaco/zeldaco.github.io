@@ -10,8 +10,6 @@ labels:
   - UX Design
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 *Bridging the Gap Between Code and Design*
 
 As someone who majored in architecture and transitioned into coding, TypeScript offers a fascinating way to blend both analytical thinking and creative problem solving. After spending a year learning Java and dabbling in Python and C# for various projects, I appreciate TypeScript for its focus on structure and maintainability. 
