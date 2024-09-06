@@ -6,19 +6,19 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-blue1: #339966;
+  --tf-dark-green: #339966;
   --tf-blue2: #d9f2e6;
   --tf-blue3: #8cd9b3;
-  --tf-blue4: #d9f2e6;
-  --tf-green5: #206040;
+  --tf-w-green: #d9f2e6;
+  --tf-vd-green: #206040;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-blue1);
-  --tf-pill-bg: var(--tf-blue1);
-  --tf-icon-fill: var(--tf-blue1);
-  --tf-icon-hover: var(--tf-green5);
+  --bs-link-color: var(--tf-dark-green);
+  --tf-pill-bg: var(--tf-dark-green);
+  --tf-icon-fill: var(--tf-dark-green);
+  --tf-icon-hover: var(--tf-vd-green);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-blue4);
-  --tf-projects-bg-color: var(--tf-blue4);
+  --tf-footer-bg-color: var(--tf-w-green);
+  --tf-projects-bg-color: var(--tf-w-green);
 }
 
 h1,h2,h3,h4,h5 {
