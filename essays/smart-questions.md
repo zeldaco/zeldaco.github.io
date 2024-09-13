@@ -19,7 +19,7 @@ Eric Raymond’s essay, How to Ask Questions the Smart Way, provides a pretty so
 
 ## Smart Question: Thoughtful, Detailed, and Focused
 
-A strong example of a smart question on StackOverlfow is “Can you force a React component to rerender without calling setState?” This developer is working on a react project where they want an external observable object to listen for changes. Their question is well structured and provides details on the tools they are using, the problems they encounter, as well as a code example. 
+A strong example of a smart question on StackOverlfow is [“Can you force a React component to rerender without calling setState?”](https://stackoverflow.com/questions/30626030/can-you-force-a-react-component-to-rerender-without-calling-setstate) This developer is working on a react project where they want an external observable object to listen for changes. Their question is well structured and provides details on the tools they are using, the problems they encounter, as well as a code example. 
 
 They include a snippet of TypeScript showing how they are managing button focus and event handling but note that screen readers are not interpreting their custom components correctly. The developer then lists the exact screen reader software they’ve tested, describes what they expected to happen versus what is actually happening, and asks for guidance on how to refactor their code to meet the accessibility standards. 
 
