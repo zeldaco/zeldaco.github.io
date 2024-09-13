@@ -25,12 +25,12 @@ They include a snippet of TypeScript showing how they are managing button focus 
 
 This question demonstrates a clear understanding of the problem, includes necessary context, and shows that the user has already researched and attempted solutions. The answers provide thoughtful feedback, suggesting improvements to the code structure and recommending how to force rerenders and alteritives to force updates. 
 
-```
-Q: I have an external (to the component), observable object that I want to listen for changes on. When the object is updated it emits change events, and then I want to rerender the component when any change is detected.
+
+**Q:** I have an external (to the component), observable object that I want to listen for changes on. When the object is updated it emits change events, and then I want to rerender the component when any change is detected.
 
 With a top-level React.render this has been possible, but within a component it doesn't work (which makes some sense since the render method just returns an object).
 
-Here's a code example:
+```
 export default class MyComponent extends React.Component {
 
   handleButtonClick() {
@@ -48,25 +48,28 @@ export default class MyComponent extends React.Component {
     )
   }
 }
-
+```
 Clicking the button internally calls this.render(), but that's not what actually causes the rendering to happen (you can see this in action because the text created by {Math.random()} doesn't change). However, if I simply call this.setState() instead of this.render(), it works fine.
 
 So I guess my question is: do React components need to have state in order to rerender? Is there a way to force the component to update on demand without changing the state?
 
-```
+## Smart Question Analysis
+
 The developer clearly defines their problem, provides relevant context, and includes a code snippet to demonstrate their current approach. This level of detail allows respondents to immediately understand the issue, offer targeted solutions, and even expand on best practices for managing component rendering in React.
 
 The question not only solves the immediate problem but invites broader discussion on React lifecycle management. Several answers offer updated techniques for rerendering using hooks, showing how even older questions can continue to serve the community as technology evolves. This engagement is a direct result of how thoughtfully the question was posed, leading to a wealth of valuable information.
 
-```
-A: In 2021 and 2022, this is the official, but also officially discouraged, way to forceUpdate a React Functional Component.
+
+**A:** In 2021 and 2022, this is the official, but also officially discouraged, way to forceUpdate a React Functional Component.
 Like this:
 
+```
  const [, forceUpdate] = useReducer(x => x + 1, 0);
 
   function handleClick() {
     forceUpdate();
   }
+```
 
 I know the OP is for a class component. But the question was asked in 2015 and now that hooks are available, many may search for forceUpdate in functional components. This little bit is for them.
 
@@ -83,25 +86,19 @@ A few reasons that can cause the need to use force updates.
 - Always keep an eye on the console. It's your best friend at work. Solving warning and errors that show up in the console can fix a whole lot of nasty things - bugs and issues that you aren't even aware off.
 A few things I can remember that I did wrong. In case it helps..
 
-```
-
 
 ## Not-So-Smart Question: Vague and Unclear
 
-On the other hand, a not-so-smart question is “Is passing an encrypted idToken in a JSON body a security issue?” This question is vague and doesnt provide specific details. 
+On the other hand, a not-so-smart question is [“Is passing an encrypted idToken in a JSON body a security issue?”](https://stackoverflow.com/questions/78979185/is-passing-an-encrypted-idtoken-in-a-json-body-a-security-issue) This question is vague and doesnt provide specific details. 
 
 The developer mentions they’re working on setting up sessions in cookies to authenticate a user and that they have been encountering issues. The developer doesnt say what third party cookies they are working with and potential methods. They don’t explain what exactly is going wrong or what steps they’ve already taken to try and fix it. There are no code snippets and the question is too vague to provide any helpful answers. 
 
 Unsurprisingly, negative votes on the question reflect the lack of information. It demonstrates how a lack of clarity and specificity can lead to poor engagement. The question is vague, with little context provided about the encryption method, API, or even the broader authentication setup. It leaves too many unanswered questions, making it difficult for others to offer meaningful help. As a result, the question is closed entirely, illustrating how an unclear inquiry can waste both the asker’s and the community’s time.
 
-```
-I have been working on setting up session cookies to help authenticate a user. We have been hitting some snags with third party cookies and now a new dev thinks we should change our auth method. He thinks the best method for us to send over an encrypted idToken in the JSON body for our API requests.
+
+**Q:** I have been working on setting up session cookies to help authenticate a user. We have been hitting some snags with third party cookies and now a new dev thinks we should change our auth method. He thinks the best method for us to send over an encrypted idToken in the JSON body for our API requests.
 
 Is this a secure method to authenticate users?
-
-```
-## Analysis: Impacts of Smart vs. Vague Questions
-
 
 ## Conclusion
 
