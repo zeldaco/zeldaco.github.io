@@ -1,54 +1,31 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "More Than Just Rules"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2024-09-26
+published: true
 labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+When you hear “coding standards,” it’s easy to think of them as a set of arbitrary rules—whether to use tabs or spaces, or how to format braces. While these details help maintain uniformity in a codebase, they only scratch the surface of what coding standards truly represent. To me, coding standards are not just about aesthetics; they are the foundation of software quality. They teach, guide, and establish a shared language within a team.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## Standard for Learning
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+It might not seem obvious at first, but coding standards are an invaluable tool for learning a new programming language. When I first started coding, I didn’t know the “right” way to write something. It felt like I was trying to speak a new language without understanding its grammar. Coding standards act as a grammatical ruleset for programming, helping you express ideas in the most effective and idiomatic way possible.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+For instance, using ESLint in a TypeScript project is like enrolling in a crash course on best practices. Initially, my entire code was underlined with red squiggles—each one a lesson in disguise. Every rule that ESLint enforced pushed me towards better habits, helping me internalize the nuances of the language faster. It was like having a tutor constantly pointing out areas for improvement as I coded.
 
-Here's what I think: the difficult things will always be difficult.
+## Frustration Turned to Appreciation
 
-## In the context of programming
+After spending a week working with ESLint in VSCode, I had moments where it felt like it was just nitpicking details that didn’t matter. I was focused on whether my code would run properly, and the constant corrections seemed more of a hindrance than a help. But every error I fixed taught me something new about the language or about writing better code overall. As I continued working with ESLint, I noticed it was transforming the way I wrote code. I began preemptively writing code that adhered to the standards, which reduced the number of errors and made my work more enjoyable. What started as a frustrating experience evolved into valuable learning.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## Why Do They Matter?
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+In a team setting, coding standards ensure that everyone is on the same page. This consistency makes it easier to read, understand, and collaborate on the code, reducing the likelihood of introducing new bugs. But the impact of coding standards extends beyond collaboration. They play a crucial role in the long-term health of a project. Code that follows consistent standards is easier to maintain and refactor, which is essential as projects grow in complexity. Without these standards, a codebase can quickly become chaotic, making it difficult to add new features or fix issues without unintended side effects. Coding standards act as a safeguard against this, helping to keep the codebase clean and organized as it evolves.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## The Foundation of Quality Software
 
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Coding standards are the foundation of quality software development. They’ve helped me learn the intricacies of programming languages and ensured that my code remains maintainable over time. My experience with ESLint and VSCode has solidified my belief in the power of coding standards. What may start as a frustrating set of rules can ultimately lead to a deeper understanding and a more rewarding coding experience.
