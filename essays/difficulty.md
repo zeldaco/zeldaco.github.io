@@ -6,7 +6,9 @@ title: "More Than Just Rules"
 date: 2024-09-26
 published: true
 labels:
-  - Engineering
+  - Coding Standards
+  - Github
+  - TypeScript
 ---
 
 
