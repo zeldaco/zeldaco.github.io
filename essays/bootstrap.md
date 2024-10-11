@@ -21,7 +21,7 @@ UI frameworks like Bootstrap often seem intimidating, especially when you're jus
   <img src="https://cdn.discordapp.com/attachments/1292341250334392320/1293445184943554691/plushies.PNG?ex=67096073&is=67080ef3&hm=90f2c0b370c0235c492196477386ef378eded8eb09bb601dad6d14d58b11ab2d&" alt="Responsive Website Practice" width="600"/>
 
 </p>
-<p align="center text-secondary" style="font-size: 12px; color: #777;">
+<p align="center" style="font-size: 12px; color: #777;">
     As a keyboard lover, I coded a version of the Osume website to practice building responsive designs using Bootstrap 5. <br>
 </p>
 
