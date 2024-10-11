@@ -13,9 +13,9 @@ labels:
 ---
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1292341250334392320/1293445184943554691/plushies.PNG?ex=67096073&is=67080ef3&hm=90f2c0b370c0235c492196477386ef378eded8eb09bb601dad6d14d58b11ab2d&" alt="Responsive Website Practice" width="300"/>
+  <img src="https://cdn.discordapp.com/attachments/1292341250334392320/1293445184943554691/plushies.PNG?ex=67096073&is=67080ef3&hm=90f2c0b370c0235c492196477386ef378eded8eb09bb601dad6d14d58b11ab2d&" alt="Responsive Website Practice" width="600"/>
 
-  <img src="https://cdn.discordapp.com/attachments/1292341250334392320/1293445184272732170/home1.PNG?ex=67096072&is=67080ef2&hm=494d0ea400fd24b780d669933a5d5fb4f40444f16ceffd489e49dd7d0a429238&" alt="Responsive Website Practice" width="300"/>
+  <img src="https://cdn.discordapp.com/attachments/1292341250334392320/1293445184272732170/home1.PNG?ex=67096072&is=67080ef2&hm=494d0ea400fd24b780d669933a5d5fb4f40444f16ceffd489e49dd7d0a429238&" alt="Responsive Website Practice" width="600"/>
 
 </p>
 
