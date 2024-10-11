@@ -12,7 +12,7 @@ labels:
   - TypeScript
 ---
 
-UI frameworks like Bootstrap often seem intimidating, especially when you're just starting out with web development. You might wonder why you'd go through the hassle of learning something that feels almost as complex as a new programming language. After all, isn't HTML and CSS enough to create a website? For me, the answer came when I realized how much easier it made building consistent, responsive, and professional-looking websites without having to deal with every tiny alignment detail.
+UI frameworks like Bootstrap often seem intimidating, especially when you're just starting out with web development. You might wonder why you'd go through the hassle of learning something that feels almost as complex as a new programming language. After all, isn't HTML and CSS enough to create a website? For me, the answer came when I realized how much easier it made building consistent, responsive, and professional-looking websites without having to deal with every tiny alignment detail.<br>
 
 <p align="center">
 
@@ -21,7 +21,7 @@ UI frameworks like Bootstrap often seem intimidating, especially when you're jus
   <img src="https://cdn.discordapp.com/attachments/1292341250334392320/1293445184943554691/plushies.PNG?ex=67096073&is=67080ef3&hm=90f2c0b370c0235c492196477386ef378eded8eb09bb601dad6d14d58b11ab2d&" alt="Responsive Website Practice" width="600"/>
 
 </p>
-<p align="center">
+<p align="center text-secondary" style="font-size: 12px; color: #777;">
     As a keyboard lover, I coded a version of the Osume website to practice building responsive designs using Bootstrap 5. <br>
 </p>
 
