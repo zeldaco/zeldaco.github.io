@@ -12,15 +12,21 @@ labels:
   - TypeScript
 ---
 
+UI frameworks like Bootstrap often seem intimidating, especially when you're just starting out with web development. You might wonder why you'd go through the hassle of learning something that feels almost as complex as a new programming language. After all, isn't HTML and CSS enough to create a website? For me, the answer came when I realized how much easier it made building consistent, responsive, and professional-looking websites without having to deal with every tiny alignment detail.
+
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1292341250334392320/1293445184943554691/plushies.PNG?ex=67096073&is=67080ef3&hm=90f2c0b370c0235c492196477386ef378eded8eb09bb601dad6d14d58b11ab2d&" alt="Responsive Website Practice" width="600"/>
 
   <img src="https://cdn.discordapp.com/attachments/1292341250334392320/1293445184272732170/home1.PNG?ex=67096072&is=67080ef2&hm=494d0ea400fd24b780d669933a5d5fb4f40444f16ceffd489e49dd7d0a429238&" alt="Responsive Website Practice" width="600"/>
 
+  <img src="https://cdn.discordapp.com/attachments/1292341250334392320/1293445184943554691/plushies.PNG?ex=67096073&is=67080ef3&hm=90f2c0b370c0235c492196477386ef378eded8eb09bb601dad6d14d58b11ab2d&" alt="Responsive Website Practice" width="600"/>
+
+</p>
+<p align="center">
+    As a keyboard lover, I coded a version of the Osume website to practice building responsive designs using Bootstrap 5. <br>
 </p>
 
 
-UI frameworks like Bootstrap often seem intimidating, especially when you're just starting out with web development. You might wonder why you'd go through the hassle of learning something that feels almost as complex as a new programming language. After all, isn't HTML and CSS enough to create a website? For me, the answer came when I realized how much easier it made building consistent, responsive, and professional-looking websites without having to deal with every tiny alignment detail.
+
 
 ### The Real Advantages of Using a UI Framework
 One of the biggest reasons to consider a UI framework like Bootstrap is the time it saves. When I first started coding, I remember how tedious it was to write custom CSS for every element—whether it was a button, a layout, or a simple form. It wasn’t just time-consuming, but it also meant I was constantly tweaking things to make them look just right across different devices. Bootstrap made that process quicker by providing pre-built components that I could plug into my project, instantly giving it a clean and polished look.
