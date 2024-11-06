@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Spots"
+title: "Final Project Idea: Spots"
 # All dates must be YYYY-MM-DD format!
 date: 2024-11-05
 published: true
 labels:
   - Software Engineering
-  - Design
+  - Nextjs
 ---
 
 # Final Project Idea: Spots
