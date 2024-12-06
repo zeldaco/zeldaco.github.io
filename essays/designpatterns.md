@@ -24,7 +24,7 @@ What facinated me was seeing how this component pattern solved problems across d
 
 ## Forms: Where Design Meets Data
 
-<img src="../img/add-spot.png" alt="Spot Form" width="600"/>
+<img src="/img/add-spot.png" alt="Spot Form" width="600"/>
 
 Forms have always been close to my heart in UX work. They're these critical touchpoints where users really engage with the system and can be real pain points if not done well. Building them in our Spots project showed me the back-end process I hadn't considered before. Learning about the observer pattern was particularly challenging at first, but it turned out to be exactly what we needed for handling form validation, state management, and user feedback.
 
