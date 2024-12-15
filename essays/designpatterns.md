@@ -14,19 +14,19 @@ labels:
 
 # From Pixels to Patterns: Software Architecture
 
-With my background in UX, I first heard about design patterns and thought I knew all of the basics. I spent years learning interface design, developing style guides, and working with components. But as I dove deeper into design patterns, I relaized that we were talking code and not pixels. I soon discovered that the two still share many similarities.
+With my background in UX, I first heard about design patterns and thought I knew all of the basics. I spent years learning interface design, developing style guides, and working with components. But as I dove deeper into design patterns, I realized that we were talking code and not pixels. I soon discovered that the two still share many similarities.
 
 ## The Familiarity Components
 
 I started my journey with something that felt like home: component design. In my UX work, I spend hours making successful modular design systems and reusable components. Each piece needed to maintain visual consistency while being flexible enough to adapt to different situations. When I first started working with React components , I had a moment of realization. The component pattern wasn't just another way to organize code; it was building on principles I was already familiar with from my design work.
 
-What facinated me was seeing how this component pattern solved problems across different levels. With a card component in Figma, I can reuse it across multiple screens while keeping the design consistent. In React, our components did the same thing but with an extra layer of functionality. We could drop them into different pages, and they'd maintain both their look and their behavior. It wasn't just clean code, it was thoughtful architecture that made our project more maintainable as it grew. 
+What fascinated me was seeing how this component pattern solved problems across different levels. With a card component in Figma, I can reuse it across multiple screens while keeping the design consistent. In React, our components did the same thing but with an extra layer of functionality. We could drop them into different pages, and they'd maintain both their look and their behavior. It wasn't just clean code, it was thoughtful architecture that made our project more maintainable as it grew.
 
 ## Forms: Where Design Meets Data
 
 <img src="/img/add-spot.png" alt="Spot Form" width="600"/>
 
-Forms have always been close to my heart in UX work. They're these critical touchpoints where users really engage with the system and can be real pain points if not done well. Building them in our Spots project showed me the back-end process I hadn't considered before. Learning about the observer pattern was particularly challenging at first, but it turned out to be exactly what we needed for handling form validation, state management, and user feedback.
+Forms have always been close to my heart in UX work. They're these critical touch points where users really engage with the system and can be real pain points if not done well. Building them in our Spots project showed me the back-end process I hadn't considered before. Learning about the observer pattern was particularly challenging at first, but it turned out to be exactly what we needed for handling form validation, state management, and user feedback.
 
 The fascinating part was seeing how this pattern addressed challenges I previously only thought about from the user's side. As a designer, I always focused on making form interactions feel natural and ensuring error messages made sense. Now I was actually implementing these interactions, making them not just work well but work efficiently. The Observer pattern became this perfect bridge between good UX principles and solid architecture.
 
