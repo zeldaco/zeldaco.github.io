@@ -15,13 +15,13 @@ labels:
 
 <br>
 
-### I. Introduction
+## I. Introduction
 
 Starting ICS 314, I felt overwhelmed observing the coding experience my classmates possessed. When Professor Port encouraged us to use AI tools, it opened new possibilities for approaching the coursework. I began with ChatGPT, as it was what I was familiar with and the most widely known option, but I later discovered Claude, which proved more effective with complex tasks essential for our later projects. The integration of these AI tools fundamentally changed my approach to learning software development.
 
 <br>
 
-### II. Personal Experience with AI
+## II. Personal Experience with AI
 
 ##### 1. Experience WODs
 The initial WODs presented significant challenges, particularly the Prisma assignments. When faced with structuring database schemas, I turned to ChatGPT for guidance. While the generated code required modifications to meet our specific requirements, it provided valuable starting points. The ability to ask the AI about its code choices enhanced my understanding of database design principles and helped me grasp the underlying concepts.
@@ -84,20 +84,30 @@ This organizational structure helped us divide tasks among team members and esta
 
 <br>
 
-### III. Impact on Learning and Understanding
+## III. Impact on Learning and Understanding
 The integration of AI in my learning process created an interesting balance between efficiency and fundamental skill development. While AI accelerated my ability to implement complex features, it occasionally reduced my focus on syntax memorization. The trade-off enabled deeper exploration of architectural concepts and system design principles. The time saved on implementation details allowed me to focus on understanding larger software engineering concepts and best practices.
 
-### IV. Practical Applications
+<br>
+
+## IV. Practical Applications
 Beyond ICS 314, I've applied AI tools in developing personal projects ranging from custom Spotify integrations to Discord bots. These applications demonstrated AI's value in real-world development scenarios. The experience gained in effectively utilizing AI for academic projects translated directly to independent development work, enhancing both productivity and learning outcomes. I've become particularly interested in AI's potential for UX/UI design and rapid prototyping and will continue to explore it outside of ICS 314.
 
-### V. Challenges and Opportunities
+<br>
+
+## V. Challenges and Opportunities
 Working with AI revealed specific challenges in handling complex project structures and maintaining consistent code organization across multiple files. These limitations often required creative solutions and deeper understanding of system architecture that I found ChatGPT struggled with. These challenges also present opportunities to develop stronger problem-solving skills and better grasp the importance of modular design principles and the importance of understanding software without the help of AI.
 
-### VI. Comparative Analysis
+<br>
+
+## VI. Comparative Analysis
 The combination of traditional instruction and AI assistance created a comprehensive learning environment. While classroom instruction provided essential theoretical foundations, AI enabled practical application and experimentation with concepts. I was able to use it as a way to experiment with the code that it generated. This dual approach supported different learning styles and allowed for more thorough exploration of complex topics than either method could provide alone.
 
-### VII. Future Considerations
+<br>
+
+## VII. Future Considerations
 As AI tools continue to evolve, their role in software development will expand beyond code generation to potentially reshape entire development workflows. Understanding how to effectively integrate these tools while maintaining code quality and security has become crucial. The experience gained in ICS 314 has prepared me to thoughtfully incorporate AI into future development work while maintaining strong fundamental programming skills.
 
-### VIII. Conclusion
+<br>
+
+## VIII. Conclusion
 My experience with AI in ICS 314 has demonstrated the transformative potential of these tools in software engineering education. While AI significantly enhanced my learning and development capabilities, it also highlighted the importance of maintaining strong fundamental skills and understanding core concepts. The course has prepared me to leverage AI tools effectively while remaining mindful of their limitations and security implications. I would love to explore the security concerns that utilizing AI has in professional applications and how to use it safely when dealing with sensitive data. As I move forward in software development, I am confident and excited in my ability to balance AI assistance with independent problem-solving skills, creating more efficient and innovative solutions.
