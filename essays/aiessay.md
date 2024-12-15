@@ -11,10 +11,6 @@ labels:
   - Software Development
 ---
 
-# Reflection on AI Usage in ICS 314
-
-<br>
-
 ## I. Introduction
 
 Starting ICS 314, I felt overwhelmed observing the coding experience my classmates possessed. When Professor Port encouraged us to use AI tools, it opened new possibilities for approaching the coursework. I began with ChatGPT, as it was what I was familiar with and the most widely known option, but I later discovered Claude, which proved more effective with complex tasks essential for our later projects. The integration of these AI tools fundamentally changed my approach to learning software development.
