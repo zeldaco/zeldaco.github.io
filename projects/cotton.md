@@ -1,59 +1,70 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
-published: false
+image: img/M3_spotpage.png
+title: "Spots"
+date: 2025
+published: true
 labels:
-  - Lisp
+  - Next.js
+  - Software Development
+  - PostgreSQL
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A study spot finder for University of Hawaii students."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/favoritespage.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Spots is a web application designed to help UH Manoa students discover and share study locations on and around campus. As a student at UH Manoa, I understand the challenge of finding suitable study spots that match individual preferences and needs. Our team developed this application to create a community-driven platform where students can find, rate, and share study locations.
 
-To give you a flavor of the game, here is an excerpt from one run:
+## My Contribution
+As a member of the development team, I focused on implementing several key features:
+- Developed the check-in system allowing users to indicate their presence at a location
+- Created the busyness indicator functionality to show real-time spot occupancy
+- Implemented friend activity tracking to show where friends are studying
+- Built API endpoints for managing user check-ins and spot busyness data
+- Contributed to the profile page development and user interface design
 
-<hr>
+## Technologies Used
+- **Frontend**: React, Next.js 14, Bootstrap, TypeScript
+- **Backend**: Node.js, Prisma ORM
+- **Database**: PostgreSQL (hosted on NeonDB)
+- **Deployment**: Vercel
+- **Version Control**: Git/GitHub
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+## Key Features Implemented
+### Check-in System
+- Created an intuitive interface for users to check in/out of study spots
+- Implemented duration tracking and busyness reporting
+- Added real-time updates of spot occupancy
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+### Friend Activity Tracking
+- Developed a feature similar to Spotify's friend activity display
+- Shows where friends are currently studying
+- Updates in real-time when friends check in or out
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+### Busyness Indicator
+- Built a system to calculate and display current spot occupancy
+- Implemented color-coded indicators for different busyness levels
+- Created an aggregation system for multiple user reports
 
-pickup candle
-- you are now carrying the candle -
+## Challenges and Learning Outcomes
+Throughout this project, I gained valuable experience in:
+- Working with modern web technologies and frameworks
+- Implementing real-time features and state management
+- Collaborating in a team using Git and agile methodologies
+- Writing clean, maintainable code following best practices
+- Debugging and problem-solving in a full-stack environment
 
-pickup match
-- you are now carrying the match -
+## Screenshots
+[Include 2-3 screenshots showing your implemented features]
 
-light match candle
+## Project Links
+- [Organization GitHub Page](https://github.com/manoa-spots)
+- [Live Application](https://manoa-spots.vercel.app)
+- [Project Documentation](https://manoa-spots.github.io/)
 
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
+## Team Members
+Collaborated with Rylee Au, Arissa Dang, and Diana Reis to design and implement this application.
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
