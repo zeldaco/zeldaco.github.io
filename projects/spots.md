@@ -25,9 +25,14 @@ As a member of the development team, I focused on implementing several key featu
 - Built API endpoints for managing user check-ins and spot busyness data
 - Contributed to the profile page development and user interface design
 
-<img class="img-fluid" width="50%" src="../img/spotcard.png">
+<p align="center">
+<img class="img-fluid" width="80%" src="../img/spotcard.png">
+</p>
+<br>
 
-<img class="img-fluid" width="50%" src="../img/newspot.png">
+<p align="center">
+<img class="img-fluid" width="80%" src="../img/newspot.png">
+</p>
 
 <br>
 
@@ -42,7 +47,9 @@ As a member of the development team, I focused on implementing several key featu
 
 ## Key Features Implemented
 
-<img class="img-fluid" width="50%" src="../img/profile.png">
+<p align="center">
+<img class="img-fluid" width="80%" src="../img/profile.png">
+</p>
 
 ### Check-in System
 - Created an intuitive interface for users to check in/out of study spots
