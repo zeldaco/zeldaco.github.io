@@ -21,9 +21,13 @@ Spots is a web application designed to help UH Manoa students discover and share
 As a member of the development team, I focused on implementing several key features:
 - Developed the check-in system allowing users to indicate their presence at a location
 - Created the busyness indicator functionality to show real-time spot occupancy
-- Implemented friend activity tracking to show where friends are studying
+- Implemented Spot cards, ability to add new spots, and filter spot search system
 - Built API endpoints for managing user check-ins and spot busyness data
 - Contributed to the profile page development and user interface design
+
+<img class="img-fluid" width="50%" src="../img/spotcard.png">
+
+<img class="img-fluid" width="50%" src="../img/newspot.png">
 
 <br>
 
@@ -37,6 +41,9 @@ As a member of the development team, I focused on implementing several key featu
 <br>
 
 ## Key Features Implemented
+
+<img class="img-fluid" width="50%" src="../img/profile.png">
+
 ### Check-in System
 - Created an intuitive interface for users to check in/out of study spots
 - Implemented duration tracking and busyness reporting
@@ -55,22 +62,7 @@ As a member of the development team, I focused on implementing several key featu
 <br>
 
 ## Challenges and Learning Outcomes
-Throughout this project, I gained valuable experience in:
-- Working with modern web technologies and frameworks
-- Implementing real-time features and state management
-- Collaborating in a team using Git and agile methodologies
-- Writing clean, maintainable code following best practices
-- Debugging and problem-solving in a full-stack environment
-
-<br>
-
-## Screenshots
-
-<p align="center">
-<img src="../img/newspot.png" width="32%" alt="Add New Spot">
-<img src="../img/profile.png" width="32%" alt="Profile Page">
-<img src="../img/spotcard.png" width="32%" alt="Spot Card">
-</p>
+Throughout this project, I gained valuable experience working with modern web technologies and frameworks. I learned how to implement real-time features and state management, collaborate in a team using Git and agile methodologies in a full-stack environment.
 
 <br>
 
