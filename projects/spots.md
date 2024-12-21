@@ -65,9 +65,12 @@ Throughout this project, I gained valuable experience in:
 <br>
 
 ## Screenshots
-<img class="img-fluid" src="../img/newspot.png">
-<img class="img-fluid" src="../img/profile.png">
-<img class="img-fluid" src="../img/spotcard.png">
+
+<p align="center">
+<img src="../img/newspot.png" width="32%" alt="Add New Spot">
+<img src="../img/profile.png" width="32%" alt="Profile Page">
+<img src="../img/spotcard.png" width="32%" alt="Spot Card">
+</p>
 
 <br>
 

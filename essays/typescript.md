@@ -48,7 +48,7 @@ TypeScripts compatibility with existing JavaScript libraries and frameworks ensu
 
 Integrating Athletic Software Engineering methodologies such as practice WODs into my learning process has been transformative. The exercises allow me to mimic real world scenarios where deadlines and rapid problem solving are necessary skills required in the software industry. 
 
-The pressure of completing coding tasks within a set timeframe was daunting and still is. However, the approach not only improved my coding speed but also enhanced my ability to think critically under pressure. The hands-on interactive learning style aligns well with my goals of becoming a UX designer where quick iterations and user feedback are integral to the design process. 
+The pressure of completing coding tasks within a set timeframe was daunting and still is. However, the approach not only improved my coding speed but also enhanced my ability to think critically under pressure. The hands-on interactive learning style aligns well with my goals of becoming a UX designer where quick iterations and user feedback are integral to the design process.
 
 ### TypeScript Toolbox
 
