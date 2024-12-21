@@ -25,12 +25,16 @@ As a member of the development team, I focused on implementing several key featu
 - Built API endpoints for managing user check-ins and spot busyness data
 - Contributed to the profile page development and user interface design
 
+<br>
+
 ## Technologies Used
 - **Frontend**: React, Next.js 14, Bootstrap, TypeScript
 - **Backend**: Node.js, Prisma ORM
 - **Database**: PostgreSQL (hosted on NeonDB)
 - **Deployment**: Vercel
 - **Version Control**: Git/GitHub
+
+<br>
 
 ## Key Features Implemented
 ### Check-in System
@@ -48,6 +52,8 @@ As a member of the development team, I focused on implementing several key featu
 - Implemented color-coded indicators for different busyness levels
 - Created an aggregation system for multiple user reports
 
+<br>
+
 ## Challenges and Learning Outcomes
 Throughout this project, I gained valuable experience in:
 - Working with modern web technologies and frameworks
@@ -56,15 +62,21 @@ Throughout this project, I gained valuable experience in:
 - Writing clean, maintainable code following best practices
 - Debugging and problem-solving in a full-stack environment
 
+<br>
+
 ## Screenshots
-[Include 2-3 screenshots showing your implemented features]
+<img class="img-fluid" src="../img/newspot.png">
+<img class="img-fluid" src="../img/profile.png">
+<img class="img-fluid" src="../img/spotcard.png">
+
+<br>
 
 ## Project Links
 - [Organization GitHub Page](https://github.com/manoa-spots)
 - [Live Application](https://manoa-spots.vercel.app)
 - [Project Documentation](https://manoa-spots.github.io/)
 
+<br>
+
 ## Team Members
 Collaborated with Rylee Au, Arissa Dang, and Diana Reis to design and implement this application.
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
